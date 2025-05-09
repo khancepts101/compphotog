@@ -1,5 +1,4 @@
 
-```markdown
 # 🪄 Product Image Enhancer
 
 Automatically enhance product photos by removing cluttered backgrounds, improving lighting, boosting contrast, and simulating studio-style shadows.
